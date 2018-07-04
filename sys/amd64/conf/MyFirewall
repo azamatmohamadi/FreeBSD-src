@@ -1,5 +1,1 @@
- export PRODUCT_NAME="MyFirewall"
- export FREEBSD_REPO_BASE=https://github.com/PiBa-NL/FreeBSD-src.git
- export FREEBSD_BRANCH=MyFirewall_2_4
- export PKG_REPO_SERVER_STAGING="pkg+http://release-staging.piba-nl.nl/ce/packages"
- export PKG_REPO_SIGNING_COMMAND="/root/sign.sh ${PKG_REPO_SIGN_KEY}"
+ 
